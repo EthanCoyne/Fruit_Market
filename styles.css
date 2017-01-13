@@ -1,0 +1,29 @@
+.fruit{
+  display: inline-block;
+  padding-left: 30px;
+}
+
+.fruitDivs{
+  display: inline-block;
+
+}
+
+#appleInventory{
+border: 5px;
+  border-color: black;
+  height: 200px;
+  width: 200px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+
+}
+/*.marketPrice {
+  display: inline-block;
+}*/
+
+/*.inventory {
+  border: 32px 0px 32px 0px;
+}*/
